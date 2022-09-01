@@ -28,7 +28,7 @@ Fix for game crash:
 2. Open `Settings`
 3. Tap the `VOICE VOLUME` slider
 4. Press `X`
-5. Hold D-Pad left until the slider stops moving
+5. Hold `D-Pad Left` until the slider stops moving
 
 Make sure to save the game to keep the new settings
 
