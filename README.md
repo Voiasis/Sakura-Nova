@@ -22,4 +22,14 @@ Guide to setup and install the game to your Vita:
 5. Rename the .zip you just made to .vpk
 6. Install the vpk on your Vita
 
+Fix for game crash:
+
+1. Start the game
+2. Open `Settings`
+3. Tap the `VOICE VOLUME` slider
+4. Press `X`
+5. Hold D-Pad left until the slider stops moving
+
+Make sure to save the game to keep the new settings
+
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
